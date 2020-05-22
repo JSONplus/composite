@@ -1,0 +1,16 @@
+{
+    "name": "jsonplus/composite",
+    "description": "Make a composite of multiple JSON files",
+    "type": "library",
+    "require": {
+        "jsonplus/all": "^1.0.1"
+    },
+    "license": "apache-2.0",
+    "authors": [
+        {
+            "name": "Sent G. Wierda",
+            "email": "sentwierda@gmail.com"
+        }
+    ],
+	"autoload": {"files":["JSONplus_composite.php"]}
+}
